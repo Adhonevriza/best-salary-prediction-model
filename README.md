@@ -19,4 +19,4 @@ MSE atau Mean Sqaured Error (Kuadrat Tengah Galat) merupakan indikator yang meng
 ### 2. Koefisien Determinasi (R Kuadrat)
 Koefisen Determinasi (dilambangkan dengan R kuadrat) merupakan indikator yang mengukur seberapa baik model sesuai dengan data dan seberapa baik model dapat memprediksi hasil di masa mendatang. Koefisien Determinasi mengukur seberapa besar variasi suatu variabel independen dapat dijelaskan oleh variabel independen dalam model tersebut.
 
-Jika Anda memiliki saran atau feedback, jangan ragu untuk menghubungi saya melalui direct messages via LinkedIn dan Email: adhonevriza@gmail.com dan https://www.linkedin.com/in/evriza-ramadhan-maulana
+Jika Anda memiliki saran atau feedback, jangan ragu untuk menghubungi saya melalui direct messages via LinkedIn: https://www.linkedin.com/in/evriza-ramadhan-maulana dan Email: adhonevriza@gmail.com
