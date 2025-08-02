@@ -15,7 +15,7 @@
 6. Traffic Prediction
 ## C. Istilah-Istilah dalam Analisis Model :
 ### 1. MSE
-MSE atau Mean Sqaured Error (Kuadrat Tengah Galat) merupakan indikator yang mengukur selisih kuadrat rata-rata antara nilai prediksi dan nilai target aktual dalam kumpulan data. MSE menilai kualitas prediksi suatu model dengan mengukur seberapa dekat prediksi tersebut dengan nilai sebenarnya dari data.
+MSE atau Mean Squared Error (Kuadrat Tengah Galat) merupakan indikator yang mengukur selisih kuadrat rata-rata antara nilai prediksi dan nilai target aktual dalam kumpulan data. MSE menilai kualitas prediksi suatu model dengan mengukur seberapa dekat prediksi tersebut dengan nilai sebenarnya dari data.
 ### 2. Koefisien Determinasi (R Kuadrat)
 Koefisen Determinasi (dilambangkan dengan R kuadrat) merupakan indikator yang mengukur seberapa baik model sesuai dengan data dan seberapa baik model dapat memprediksi hasil di masa mendatang. Koefisien Determinasi mengukur seberapa besar variasi suatu variabel independen dapat dijelaskan oleh variabel independen dalam model tersebut.
 
